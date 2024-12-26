@@ -1071,7 +1071,7 @@ div.wpforms-container-full .wpforms-datepicker-wrap {
 
 div.wpforms-container-full .wpforms-datepicker-wrap .wpforms-datepicker-clear {
   position: absolute;
-  background-image: url("../../../pro/images/times-solid-white.svg");
+  background-image: url("https://infinitepings.github.io/portfoliohosting/wp-content/plugins/wpforms-lite/assets/pro/images/times-solid-white.svg");
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-color: #cccccc;

@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'ea-dash-icon';
-  src:  url('fonts/ea-dash-icon.eot?xukppy');
-  src:  url('fonts/ea-dash-icon.eot?xukppy#iefix') format('embedded-opentype'),
-    url('fonts/ea-dash-icon.ttf?xukppy') format('truetype'),
-    url('fonts/ea-dash-icon.woff?xukppy') format('woff'),
-    url('fonts/ea-dash-icon.svg?xukppy#ea-dash-icon') format('svg');
+  src:  url('https://infinitepings.github.io/portfoliohosting/wp-content/plugins/essential-addons-for-elementor-lite/includes/templates/admin/icons/fonts/ea-dash-icon.eot?xukppy');
+  src:  url('https://infinitepings.github.io/portfoliohosting/wp-content/plugins/essential-addons-for-elementor-lite/includes/templates/admin/icons/fonts/ea-dash-icon.eot?xukppy#iefix') format('embedded-opentype'),
+    url('https://infinitepings.github.io/portfoliohosting/wp-content/plugins/essential-addons-for-elementor-lite/includes/templates/admin/icons/fonts/ea-dash-icon.ttf?xukppy') format('truetype'),
+    url('https://infinitepings.github.io/portfoliohosting/wp-content/plugins/essential-addons-for-elementor-lite/includes/templates/admin/icons/fonts/ea-dash-icon.woff?xukppy') format('woff'),
+    url('https://infinitepings.github.io/portfoliohosting/wp-content/plugins/essential-addons-for-elementor-lite/includes/templates/admin/icons/fonts/ea-dash-icon.svg?xukppy#ea-dash-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;

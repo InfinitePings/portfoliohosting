@@ -15,7 +15,7 @@
 }
 
 .jconfirm-wpforms-ai-purple wpforms-ai-chat .wpforms-ai-chat-welcome-screen-sample-prompts li::after {
-  background-image: url("../../../images/integrations/ai/icon-send-purple.svg");
+  background-image: url("https://infinitepings.github.io/portfoliohosting/wp-content/plugins/wpforms-lite/assets/images/integrations/ai/icon-send-purple.svg");
 }
 
 .jconfirm-wpforms-ai-purple wpforms-ai-chat .wpforms-ai-chat-welcome-screen-sample-prompts li:hover a {
@@ -73,7 +73,7 @@ body .jconfirm.jconfirm-wpforms-ai-modal .jconfirm-box-container .jconfirm-box .
 
 body .jconfirm.jconfirm-wpforms-ai-modal .jconfirm-box-container .jconfirm-box .jconfirm-closeIcon:after {
   content: '';
-  background-image: url("../../../images/integrations/ai/close.svg");
+  background-image: url("https://infinitepings.github.io/portfoliohosting/wp-content/plugins/wpforms-lite/assets/images/integrations/ai/close.svg");
   background-size: 13px 13px;
   width: 13px;
   height: 13px;
